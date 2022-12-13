@@ -2,3 +2,7 @@
 cvs
 walgreen
 walmart
+pwd
+jjjcv
+kkskdjjd
+kskssjsj
